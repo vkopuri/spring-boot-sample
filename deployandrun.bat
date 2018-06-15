@@ -1,0 +1,1 @@
+java -jar C:\Users\user\.jenkins\workspace\compile-spring-sample\target\gs-spring-boot-0.1.0.jar --server.port=8090 
